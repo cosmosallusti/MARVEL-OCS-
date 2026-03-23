@@ -1,0 +1,1154 @@
+nb of wrong lines = 689
+1)  14GoDeHeVa.1165 orig_unc = 2.000e-04 opt_unc = 1.624e-02 ratio = 81.208
+
+   upper state: 3 0 1 0 56 e   MARVEL energy = 5247.34386971
+          tag      orig unc.   optimal unc.  predicted energy
+     14GoDeHeVa.1165  2.000e-04  1.624e-02  5247.36011133  VERY BAD
+     14GoDeHeVa.1166  1.000e-04  8.054e-03  5201.55261133  VERY BAD
+     14GoDeHeVa.1211  2.000e-04  1.597e-02  4390.26522133  VERY BAD
+
+
+2)  14GoDeHeVa.1166 orig_unc = 1.000e-04 opt_unc = 8.054e-03 ratio = 80.535
+
+   upper state: 3 0 1 0 56 e   MARVEL energy = 5247.34386971
+     14GoDeHeVa.1165  2.000e-04  1.624e-02  5293.14331620  VERY BAD
+     14GoDeHeVa.1166  1.000e-04  8.054e-03  5247.33581620  VERY BAD
+     14GoDeHeVa.1211  2.000e-04  1.597e-02  4436.04842620  VERY BAD
+
+
+3)  14GoDeHeVa.1211 orig_unc = 2.000e-04 opt_unc = 1.597e-02 ratio = 79.862
+
+   upper state: 3 0 1 0 56 e   MARVEL energy = 5247.34386971
+     14GoDeHeVa.1165  2.000e-04  1.624e-02  6104.45473215  VERY BAD
+     14GoDeHeVa.1166  1.000e-04  8.054e-03  6058.64723215  VERY BAD
+     14GoDeHeVa.1211  2.000e-04  1.597e-02  5247.35984215  VERY BAD
+
+
+4)  02LeBaHuFa.470 orig_unc = 1.650e-02 opt_unc = 3.090e-01 ratio = 18.729
+
+   upper state: 1 2 5 0 50 e   MARVEL energy = 12389.57338229
+     14GoDeHeVa.168  5.100e-01  3.254e-01  12348.96641402
+     02LeBaHuFa.353  1.000e-02  1.136e-01  12348.52741402  VERY BAD
+     02LeBaHuFa.470  1.650e-02  3.090e-01  12389.88241402  VERY BAD
+
+
+5)  10ToSuBrCr.166 orig_unc = 3.000e-04 opt_unc = 4.203e-03 ratio = 14.011
+
+   upper state: 0 1 2 1 49 e   MARVEL energy = 5098.59596959
+     14GoDeHeVa.1130  5.000e-05  1.120e-04  5138.76790624  WRONG
+     10ToSuBrCr.166  3.000e-04  4.203e-03  5098.59176624  VERY BAD
+     10ToSuBrCr.219  3.000e-04  1.720e-04  5138.76796624
+
+
+6)  98RbBeVaNa.466 orig_unc = 4.000e-04 opt_unc = 5.234e-03 ratio = 13.085
+
+   upper state: 0 3 2 1 8 e   MARVEL energy = 5648.72597956
+     10ToSuBrCr.378  3.000e-04  2.944e-03  4595.73790373  WRONG
+     98RbBeVaNa.466  4.000e-04  5.234e-03  5648.73121373  VERY BAD
+
+
+7)  02LeBaHuFa.353 orig_unc = 1.000e-02 opt_unc = 1.136e-01 ratio = 11.364
+
+   upper state: 1 2 5 0 50 e   MARVEL energy = 12389.57338229
+     14GoDeHeVa.168  5.100e-01  3.254e-01  12389.89874692
+     02LeBaHuFa.353  1.000e-02  1.136e-01  12389.45974692  VERY BAD
+     02LeBaHuFa.470  1.650e-02  3.090e-01  12430.81474692  VERY BAD
+
+
+8)  76MeDuMe.687 orig_unc = 5.000e-03 opt_unc = 5.228e-02 ratio = 10.456
+
+   upper state: 0 4 0 2 41 e   MARVEL energy = 2450.70654760
+     76MeDuMe.663  5.000e-03  4.405e-02  2416.99182584  WRONG
+     76MeDuMe.687  5.000e-03  5.228e-02  2450.75882584  VERY BAD
+     81SaWoMaLa.63  1.001e-03  1.680e-03  2416.94609146  WRONG
+     90FaLaLeHe.5  1.000e-04  2.176e-05  2450.70652584
+
+
+9)  10ToSuBrCr.177 orig_unc = 3.000e-04 opt_unc = 3.014e-03 ratio = 10.047
+
+   upper state: 0 1 2 1 28 e   MARVEL energy = 4770.05891883
+     10ToSuBrCr.177  3.000e-04  3.014e-03  4770.05590467  VERY BAD
+     10ToSuBrCr.207  3.000e-04  3.014e-03  4793.20760467  VERY BAD
+
+
+10)  10ToSuBrCr.207 orig_unc = 3.000e-04 opt_unc = 3.014e-03 ratio = 10.047
+
+   upper state: 0 1 2 1 28 e   MARVEL energy = 4770.05891883
+     10ToSuBrCr.177  3.000e-04  3.014e-03  4746.91023300  VERY BAD
+     10ToSuBrCr.207  3.000e-04  3.014e-03  4770.06193300  VERY BAD
+
+
+11)  10ToSuBrCr.206 orig_unc = 3.000e-04 opt_unc = 3.008e-03 ratio = 10.026
+
+   upper state: 0 1 2 1 27 e   MARVEL energy = 4758.82248598
+     10ToSuBrCr.178  3.000e-04  3.008e-03  4736.48539371  VERY BAD
+     10ToSuBrCr.206  3.000e-04  3.008e-03  4758.82549371  VERY BAD
+
+
+12)  10ToSuBrCr.178 orig_unc = 3.000e-04 opt_unc = 3.008e-03 ratio = 10.026
+
+   upper state: 0 1 2 1 27 e   MARVEL energy = 4758.82248598
+     10ToSuBrCr.178  3.000e-04  3.008e-03  4758.81947825  VERY BAD
+     10ToSuBrCr.206  3.000e-04  3.008e-03  4781.15957825  VERY BAD
+
+
+13)  81WePeMaSu.102 orig_unc = 5.003e-05 opt_unc = 5.004e-04 ratio = 10.002
+
+   upper state: 1 0 0 0 55 e   MARVEL energy = 1481.48151215
+     14GoDeHeVa.647  3.000e-03  2.274e-13  7225.65014185
+     14GoDeHeVa.649  5.000e-03  2.274e-13  7270.23363185
+     14GoDeHeVa.1211  2.000e-04  1.597e-02  4412.95467185  VERY BAD
+     80MaOlSa.151  4.400e-03  6.367e-04  1526.45694185
+     81SeVa.43  4.000e-03  5.308e-03  669.29934185  WRONG
+     81SeVa.44  4.000e-03  1.687e-03  669.69634185
+     81WePeMaSu.102  5.003e-05  5.004e-04  1481.48201258  VERY BAD
+     81WePeMaSu.212  5.003e-05  4.980e-04  1526.45680311  WRONG
+     83JoKaHo.50  8.000e-03  4.319e-04  1475.02779185
+     88MaOlWeVa.1  3.337e-04  2.797e-06  2497.85610696
+     10ToSuBrCr.1028  3.000e-04  4.799e-07  4536.51504185
+
+
+14)  81WePeMaSu.212 orig_unc = 5.003e-05 opt_unc = 4.980e-04 ratio = 9.953
+
+   upper state: 1 0 0 0 55 e   MARVEL energy = 1481.48151215
+     14GoDeHeVa.647  3.000e-03  2.274e-13  7180.67534888
+     14GoDeHeVa.649  5.000e-03  2.274e-13  7225.25883888
+     14GoDeHeVa.1211  2.000e-04  1.597e-02  4367.97987888  VERY BAD
+     80MaOlSa.151  4.400e-03  6.367e-04  1481.48214888
+     81SeVa.43  4.000e-03  5.308e-03  624.32454888  WRONG
+     81SeVa.44  4.000e-03  1.687e-03  624.72154888
+     81WePeMaSu.102  5.003e-05  5.004e-04  1436.50721961  VERY BAD
+     81WePeMaSu.212  5.003e-05  4.980e-04  1481.48201014  WRONG
+     83JoKaHo.50  8.000e-03  4.319e-04  1430.05299888
+     88MaOlWeVa.1  3.337e-04  2.797e-06  2452.88131399
+     10ToSuBrCr.1028  3.000e-04  4.799e-07  4491.54024888
+
+
+15)  98RbBeVaNa.89 orig_unc = 4.000e-04 opt_unc = 3.962e-03 ratio = 9.905
+
+   upper state: 2 3 1 1 4 f   MARVEL energy = 5284.57315686
+     98RbBeVaNa.80  4.000e-04  3.962e-03  5280.91746370  WRONG
+     98RbBeVaNa.89  4.000e-04  3.962e-03  5284.56919470  WRONG
+
+
+16)  98RbBeVaNa.80 orig_unc = 4.000e-04 opt_unc = 3.962e-03 ratio = 9.905
+
+   upper state: 2 3 1 1 4 f   MARVEL energy = 5284.57315686
+     98RbBeVaNa.80  4.000e-04  3.962e-03  5284.57711903  WRONG
+     98RbBeVaNa.89  4.000e-04  3.962e-03  5288.22885003  WRONG
+
+
+17)  10ToSuBrCr.378 orig_unc = 3.000e-04 opt_unc = 2.944e-03 ratio = 9.814
+
+   upper state: 0 3 2 1 8 e   MARVEL energy = 5648.72597956
+     10ToSuBrCr.378  3.000e-04  2.944e-03  5648.72303533  WRONG
+     98RbBeVaNa.466  4.000e-04  5.234e-03  6701.71634533  VERY BAD
+
+
+18)  10ToSuBrCr.176 orig_unc = 3.000e-04 opt_unc = 2.802e-03 ratio = 9.339
+
+   upper state: 0 1 2 1 29 e   MARVEL energy = 4781.69637656
+     10ToSuBrCr.176  3.000e-04  2.802e-03  4781.69357486  WRONG
+     10ToSuBrCr.208  3.000e-04  2.802e-03  4805.65637486  WRONG
+
+
+19)  10ToSuBrCr.208 orig_unc = 3.000e-04 opt_unc = 2.802e-03 ratio = 9.339
+
+   upper state: 0 1 2 1 29 e   MARVEL energy = 4781.69637656
+     10ToSuBrCr.176  3.000e-04  2.802e-03  4757.73637825  WRONG
+     10ToSuBrCr.208  3.000e-04  2.802e-03  4781.69917825  WRONG
+
+
+20)  84TaItTa.16 orig_unc = 3.336e-06 opt_unc = 3.109e-05 ratio = 9.321
+
+   upper state: 0 2 0 0 12 e   MARVEL energy = 1078.78411361
+     04Horneman.368  6.000e-06  1.565e-05  1605.45390823  WRONG
+     04Horneman.556  1.230e-06  1.332e-06  1600.54660523  WRONG
+     04Horneman.69  3.501e-03  8.361e-06  2125.90862223
+     04Horneman.8  3.501e-03  5.031e-06  2115.76645323
+     04SuLiLeXu.13  1.351e-06  7.792e-07  2115.76645748
+     14GoDeHeVarot.8  1.001e-06  7.750e-07  1079.19100107
+     75BuDeSm.93  1.050e-02  4.899e-02  2959.06083323  WRONG
+     76MeDuMe.10  5.000e-03  6.250e-04  2115.76583323
+     76MeDuMe.229  5.000e-03  9.089e-04  2137.06683323
+     76MeDuMe.52  5.000e-03  7.806e-04  2125.90783323
+     79WePeMa.49  6.671e-05  4.125e-05  2115.76649951
+     79WePeMa.73  6.671e-05  4.205e-05  2125.90865592
+     81SaWoMaLa.39  1.001e-03  7.486e-04  2126.86858333
+     84TaItTa.16  3.336e-06  3.109e-05  1078.78414470  WRONG
+     90ToHoAl.13  8.000e-04  4.969e-06  2115.76646323
+     90ToHoAl.377  8.000e-04  2.015e-04  2126.86763323
+     90ToHoAl.420  8.000e-04  3.891e-05  2137.06596323
+     90ToHoAl.85  8.000e-04  1.306e-04  2125.90848323
+     91BlCoDeWa.31  5.350e-02  1.750e-04  2115.76663323
+     91BlCoDeWa.4  5.350e-02  1.194e-04  2125.90873323
+     92HoKoToAl.75  2.000e-05  8.639e-06  2125.90860523
+     92HoKoToAl.9  2.000e-05  8.031e-06  2115.76645023
+     92MaWe.30  9.000e-05  1.090e-06  2137.06592323
+     98FiRuKhLe.12  1.000e-06  1.639e-06  2125.90861223  WRONG
+     98FiRuKhLe.134  1.000e-06  1.031e-06  2115.76645723  WRONG
+     10ToSuBrCr.910  3.000e-04  1.597e-04  4992.24293323
+     10ToSuBrCr.1100  3.000e-04  1.121e-04  5142.65143323
+     10ToSuBrCr.1106  3.000e-04  1.903e-07  5152.70843323
+     10ToSuBrCr.1309  3.000e-04  2.274e-13  5228.12653323
+     98RbBeVaNa.970  6.000e-04  1.918e-04  7144.89373723
+
+
+21)  75BuDeSm.34 orig_unc = 2.850e-02 opt_unc = 2.628e-01 ratio = 9.221
+
+   upper state: 1 3 0 1 36 e   MARVEL energy = 2682.49822733
+     75BuDeSm.34  2.850e-02  2.628e-01  2682.76102108  WRONG
+     88MaOlWeVa.52  3.337e-04  3.606e-05  2712.13420396
+     77BuCaMcMu.45  5.000e-02  7.938e-04  2682.49902108
+
+
+22)  10ToSuBrCr.203 orig_unc = 3.000e-04 opt_unc = 2.657e-03 ratio = 8.857
+
+   upper state: 0 1 2 1 24 e   MARVEL energy = 4727.52064855
+     10ToSuBrCr.180  3.000e-04  2.657e-03  4707.61900559  WRONG
+     10ToSuBrCr.203  3.000e-04  2.657e-03  4727.52330559  WRONG
+
+
+23)  10ToSuBrCr.180 orig_unc = 3.000e-04 opt_unc = 2.657e-03 ratio = 8.857
+
+   upper state: 0 1 2 1 24 e   MARVEL energy = 4727.52064855
+     10ToSuBrCr.180  3.000e-04  2.657e-03  4727.51799151  WRONG
+     10ToSuBrCr.203  3.000e-04  2.657e-03  4747.42229151  WRONG
+
+
+24)  76MeDuMe.663 orig_unc = 5.000e-03 opt_unc = 4.405e-02 ratio = 8.811
+
+   upper state: 0 4 0 2 41 e   MARVEL energy = 2450.70654760
+     76MeDuMe.663  5.000e-03  4.405e-02  2450.75060230  WRONG
+     76MeDuMe.687  5.000e-03  5.228e-02  2484.51760230  VERY BAD
+     81SaWoMaLa.63  1.001e-03  1.680e-03  2450.70486793  WRONG
+     90FaLaLeHe.5  1.000e-04  2.176e-05  2484.46530230
+
+
+25)  80DuDeBuBo.56 orig_unc = 2.001e-06 opt_unc = 1.747e-05 ratio = 8.731
+
+   upper state: 0 1 0 1 20 e   MARVEL energy = 605.71795074
+     03BeCaDiFa.125  1.000e-02  2.159e-03  10631.11521127
+     03BeCaDiFa.183  1.000e-02  2.289e-03  10647.28821127
+     03BeCaDiFa.210  1.000e-02  2.159e-03  10631.11521127
+     03BeCaDiFa.258  1.000e-02  2.289e-03  10647.28821127
+     04Horneman.137  3.504e-03  1.147e-05  1109.60262527
+     04Horneman.201  3.504e-03  1.203e-05  1126.23388127
+     04Horneman.344  6.000e-06  3.470e-06  1116.23660027
+     04Horneman.376  6.000e-06  6.307e-06  1132.91947127  WRONG
+     14GoDeHeVa.548  1.000e-03  2.274e-13  7194.57220127
+     14GoDeHeVa.945  2.000e-03  2.274e-13  8526.16561127
+     14GoDeHeVa.995  3.000e-03  6.821e-13  8668.82137127
+     74LaWi.47  1.001e-06  2.540e-06  605.71795328  WRONG
+     75BuDeSm.19  2.850e-02  2.133e-02  2481.22421127
+     76MeDuMe.311  5.000e-03  1.300e-03  2704.94321127
+     76MeDuMe.337  5.000e-03  6.605e-05  2721.66021127
+     76MeDuMe.451  5.000e-03  2.271e-05  1642.58921127
+     76MeDuMe.496  5.000e-03  7.353e-04  1659.27721127
+     79WePeMa.1  4.837e-04  7.021e-05  1642.58911836
+     80DuDeBuBo.56  2.001e-06  1.747e-05  605.71793326  WRONG
+     80MaOlSa.23  4.400e-03  2.403e-03  1441.29391127
+     80MaOlSa.350  3.800e-03  2.274e-13  2303.20601127
+     80MaOlSa.95  4.400e-03  7.645e-04  1457.90091127
+     81WePeMaSu.17  1.067e-03  6.546e-05  1457.90161031
+     82KiMi.101  1.334e-04  4.358e-06  606.12393851
+     82KiMi.98  1.334e-04  2.573e-06  605.71795331
+     83JoKaHo.128  8.000e-03  6.450e-05  1457.90161127
+     83KlYaWi.11  4.300e-03  3.478e-04  2643.90411127
+     83KlYaWi.37  4.300e-03  2.024e-04  2660.45721127
+     85JoHoKaMa.166  5.000e-03  8.605e-05  1110.51491627
+     85JoHoKaMa.18  5.000e-03  4.247e-05  1109.60265627
+     85JoHoKaMa.302  5.000e-03  2.175e-04  1116.23638627
+     85JoHoKaMa.325  5.000e-03  7.131e-05  1132.91940627
+     85JoHoKaMa.79  5.000e-03  7.703e-05  1126.23394627
+     89ScMaVaWe.1  6.672e-04  6.068e-04  1961.22548979
+     90ToHoAl.164  8.000e-04  3.729e-05  1642.58915127
+     90ToHoAl.220  8.000e-04  2.472e-05  1659.27797127
+     91TaLo.32  4.900e-03  6.671e-05  1642.58925527
+     91TaLo.82  4.900e-03  1.173e-04  1659.27782927
+     91TaLoLu.57  1.300e-04  1.501e-06  1457.90167727
+     92MaWe.16  6.000e-05  2.528e-05  1659.27792127
+     98FiRuKhLe.180  1.000e-06  1.291e-06  1642.58918727  WRONG
+     98FiRuKhLe.61  1.000e-06  2.823e-07  1659.27794627
+     10ToSuBrCr.184  3.000e-04  2.274e-13  4675.25001127
+     10ToSuBrCr.200  3.000e-04  2.289e-03  4691.70821127  WRONG
+     10ToSuBrCr.573  3.000e-04  6.129e-05  4735.01911127
+     10ToSuBrCr.593  3.000e-04  8.921e-05  4751.64431127
+     10ToSuBrCr.1365  3.000e-04  1.129e-05  4519.36621127
+     10ToSuBrCr.1392  3.000e-04  2.274e-13  4535.92191127
+     90BlWaBoBo.10  5.000e-03  2.550e-05  1457.90170127
+     98RbBeVaNa.122  4.000e-04  2.274e-13  5365.48258527
+     98RbBeVaNa.690  6.000e-04  2.274e-13  6375.15225927
+     02LeBaHuFa.375  2.810e-02  3.318e-02  12457.29921127  WRONG
+     02LeBaHuFa.529  5.000e-03  5.096e-03  13398.67221127  WRONG
+     77BuCaMcMu.28  5.000e-02  6.567e-02  2481.13721127  WRONG
+
+
+26)  98RbBeVaNa.94 orig_unc = 4.000e-04 opt_unc = 3.378e-03 ratio = 8.444
+
+   upper state: 2 3 1 1 7 e   MARVEL energy = 5291.82557781
+     98RbBeVaNa.73  4.000e-04  3.378e-03  5285.73599115  WRONG
+     98RbBeVaNa.94  4.000e-04  3.378e-03  5291.82220015  WRONG
+
+
+27)  98RbBeVaNa.73 orig_unc = 4.000e-04 opt_unc = 3.378e-03 ratio = 8.444
+
+   upper state: 2 3 1 1 7 e   MARVEL energy = 5291.82557781
+     98RbBeVaNa.73  4.000e-04  3.378e-03  5291.82895546  WRONG
+     98RbBeVaNa.94  4.000e-04  3.378e-03  5297.91516446  WRONG
+
+
+28)  10ToSuBrCr.202 orig_unc = 3.000e-04 opt_unc = 2.510e-03 ratio = 8.366
+
+   upper state: 0 1 2 1 23 e   MARVEL energy = 4717.88896265
+     10ToSuBrCr.181  3.000e-04  2.510e-03  4698.79927231  WRONG
+     10ToSuBrCr.202  3.000e-04  2.510e-03  4717.89147231  WRONG
+
+
+29)  10ToSuBrCr.181 orig_unc = 3.000e-04 opt_unc = 2.510e-03 ratio = 8.366
+
+   upper state: 0 1 2 1 23 e   MARVEL energy = 4717.88896265
+     10ToSuBrCr.181  3.000e-04  2.510e-03  4717.88645298  WRONG
+     10ToSuBrCr.202  3.000e-04  2.510e-03  4736.97865298  WRONG
+
+
+30)  10ToSuBrCr.213 orig_unc = 3.000e-04 opt_unc = 2.402e-03 ratio = 8.006
+
+   upper state: 0 1 2 1 40 e   MARVEL energy = 4936.16199006
+     10ToSuBrCr.170  3.000e-04  2.402e-03  4903.28019173  WRONG
+     10ToSuBrCr.213  3.000e-04  2.402e-03  4936.16439173  WRONG
+
+
+31)  10ToSuBrCr.170 orig_unc = 3.000e-04 opt_unc = 2.402e-03 ratio = 8.006
+
+   upper state: 0 1 2 1 40 e   MARVEL energy = 4936.16199006
+     10ToSuBrCr.170  3.000e-04  2.402e-03  4936.15958839  WRONG
+     10ToSuBrCr.213  3.000e-04  2.402e-03  4969.04378839  WRONG
+
+
+32)  10ToSuBrCr.169 orig_unc = 3.000e-04 opt_unc = 2.390e-03 ratio = 7.968
+
+   upper state: 0 1 2 1 41 e   MARVEL energy = 4952.60842769
+     10ToSuBrCr.169  3.000e-04  2.390e-03  4952.60603727  WRONG
+     10ToSuBrCr.214  3.000e-04  2.390e-03  4986.30083727  WRONG
+
+
+33)  10ToSuBrCr.214 orig_unc = 3.000e-04 opt_unc = 2.390e-03 ratio = 7.968
+
+   upper state: 0 1 2 1 41 e   MARVEL energy = 4952.60842769
+     10ToSuBrCr.169  3.000e-04  2.390e-03  4918.91601811  WRONG
+     10ToSuBrCr.214  3.000e-04  2.390e-03  4952.61081811  WRONG
+
+
+34)  91TaLoLu.2 orig_unc = 1.300e-04 opt_unc = 1.021e-03 ratio = 7.853
+
+   upper state: 1 1 0 1 9 f   MARVEL energy = 1390.70929457
+     80MaOlSa.37  4.400e-03  4.051e-03  1382.97954068
+     84TaItTa.75  3.336e-06  1.126e-06  539.11468563
+     91TaLoLu.2  1.300e-04  1.021e-03  1390.70827368  WRONG
+     91TaLoLu.89  1.300e-04  6.857e-04  1382.98290568  WRONG
+
+
+35)  76MeDuMe.662 orig_unc = 5.000e-03 opt_unc = 3.873e-02 ratio = 7.746
+
+   upper state: 0 4 0 2 40 e   MARVEL energy = 2434.01370503
+     76MeDuMe.662  5.000e-03  3.873e-02  2434.05243538  WRONG
+     76MeDuMe.686  5.000e-03  2.037e-02  2467.00443538  WRONG
+     81SaWoMaLa.61  1.001e-03  1.148e-04  2434.01359022
+     90ToHoAl.476  8.000e-04  1.440e-03  2434.01226538  WRONG
+
+
+36)  10ToSuBrCr.200 orig_unc = 3.000e-04 opt_unc = 2.289e-03 ratio = 7.631
+
+   upper state: 0 1 2 1 21 e   MARVEL energy = 4699.82866152
+     10ToSuBrCr.182  3.000e-04  2.289e-03  4682.36295074  WRONG
+     10ToSuBrCr.200  3.000e-04  2.289e-03  4699.83095074  WRONG
+
+
+37)  10ToSuBrCr.182 orig_unc = 3.000e-04 opt_unc = 2.289e-03 ratio = 7.631
+
+   upper state: 0 1 2 1 21 e   MARVEL energy = 4699.82866152
+     10ToSuBrCr.182  3.000e-04  2.289e-03  4699.82637231  WRONG
+     10ToSuBrCr.200  3.000e-04  2.289e-03  4717.29437231  WRONG
+
+
+38)  10ToSuBrCr.198 orig_unc = 3.000e-04 opt_unc = 2.267e-03 ratio = 7.558
+
+   upper state: 0 1 2 1 16 e   MARVEL energy = 4661.69883028
+     10ToSuBrCr.186  3.000e-04  2.267e-03  4648.29329766  WRONG
+     10ToSuBrCr.198  3.000e-04  2.267e-03  4661.70109766  WRONG
+
+
+39)  10ToSuBrCr.186 orig_unc = 3.000e-04 opt_unc = 2.267e-03 ratio = 7.558
+
+   upper state: 0 1 2 1 16 e   MARVEL energy = 4661.69883028
+     10ToSuBrCr.186  3.000e-04  2.267e-03  4661.69656290  WRONG
+     10ToSuBrCr.198  3.000e-04  2.267e-03  4675.10436290  WRONG
+
+
+40)  76MeDuMe.661 orig_unc = 5.000e-03 opt_unc = 3.722e-02 ratio = 7.444
+
+   upper state: 0 4 0 2 39 e   MARVEL energy = 2417.68660671
+     76MeDuMe.661  5.000e-03  3.722e-02  2417.72382584  WRONG
+     81SaWoMaLa.59  1.001e-03  1.404e-03  2417.68520278  WRONG
+     90ToHoAl.506  8.000e-04  5.554e-05  2449.82196584
+
+
+41)  10ToSuBrCr.199 orig_unc = 3.000e-04 opt_unc = 2.226e-03 ratio = 7.419
+
+   upper state: 0 1 2 1 18 e   MARVEL energy = 4675.74703709
+     10ToSuBrCr.185  3.000e-04  2.226e-03  4660.71736290  WRONG
+     10ToSuBrCr.199  3.000e-04  2.226e-03  4675.74926290  WRONG
+
+
+42)  10ToSuBrCr.185 orig_unc = 3.000e-04 opt_unc = 2.226e-03 ratio = 7.419
+
+   upper state: 0 1 2 1 18 e   MARVEL energy = 4675.74703709
+     10ToSuBrCr.185  3.000e-04  2.226e-03  4675.74481127  WRONG
+     10ToSuBrCr.199  3.000e-04  2.226e-03  4690.77671127  WRONG
+
+
+43)  03BeCaDiFa.245 orig_unc = 1.000e-02 opt_unc = 7.182e-02 ratio = 7.182
+
+   upper state: 0 1 5 1 59 e   MARVEL energy = 11261.87186616
+     03BeCaDiFa.164  1.000e-02  2.918e-02  11261.84268202  WRONG
+     03BeCaDiFa.188  1.000e-02  4.263e-02  11310.09368202  WRONG
+     03BeCaDiFa.245  1.000e-02  7.182e-02  11261.94368202  WRONG
+
+
+44)  92HoKoToAl.53 orig_unc = 2.000e-05 opt_unc = 1.408e-04 ratio = 7.040
+
+   upper state: 0 2 0 0 56 e   MARVEL energy = 1696.18059739
+     04Horneman.108  3.501e-03  1.351e-04  1741.96366720
+     04Horneman.408  8.000e-06  9.642e-08  1220.78654120
+     04Horneman.49  3.501e-03  1.238e-04  1696.18072120
+     04Horneman.600  4.800e-06  4.784e-09  1197.39396320
+     76MeDuMe.93  5.000e-03  2.939e-04  1741.96409620
+     79WePeMa.117  3.836e-04  1.139e-03  1741.96266277  WRONG
+     79WePeMa.5  3.536e-04  8.842e-04  1696.17971316  WRONG
+     81SaWoMaLa.9  1.001e-04  2.522e-04  1741.96355005  WRONG
+     85JoHoKaMa.351  5.000e-03  8.990e-05  1220.78663120
+     85JoHoKaMa.376  5.000e-03  2.580e-04  1197.39422120
+     90ToHoAl.129  8.000e-04  2.361e-04  1741.96356620
+     90ToHoAl.57  8.000e-04  1.088e-04  1696.18070620
+     91BlCoDeWa.24  5.350e-02  6.054e-06  1741.96379620
+     91BlCoDeWa.47  5.350e-02  1.988e-04  1696.18079620
+     92HoKoToAl.119  2.000e-05  1.241e-04  1741.96367820  WRONG
+     92HoKoToAl.53  2.000e-05  1.408e-04  1696.18073820  WRONG
+     10ToSuBrCr.933  3.000e-04  4.547e-13  4612.98099620
+     10ToSuBrCr.1077  3.000e-04  0.000e+00  4714.14499620
+
+
+45)  92HoKoToAl.54 orig_unc = 2.000e-05 opt_unc = 1.358e-04 ratio = 6.789
+
+   upper state: 0 2 0 0 57 e   MARVEL energy = 1719.35039888
+     04Horneman.109  3.501e-03  1.240e-04  1765.94151965
+     04Horneman.50  3.501e-03  1.368e-04  1719.35053565
+     04Horneman.601  4.800e-06  1.626e-07  1220.91597665
+     76MeDuMe.94  5.000e-03  5.703e-05  1765.94158665
+     79WePeMa.118  4.136e-04  1.238e-03  1765.94040547  WRONG
+     79WePeMa.4  3.836e-04  9.854e-04  1719.34941351  WRONG
+     85JoHoKaMa.352  5.000e-03  2.909e-04  1244.73688165
+     85JoHoKaMa.377  5.000e-03  1.348e-04  1220.91584165
+     90ToHoAl.130  8.000e-04  1.670e-04  1765.94147665
+     90ToHoAl.58  8.000e-04  1.878e-04  1719.35058665
+     91BlCoDeWa.25  5.350e-02  5.703e-05  1765.94158665
+     91BlCoDeWa.48  5.350e-02  1.878e-04  1719.35058665
+     92HoKoToAl.120  2.000e-05  1.330e-04  1765.94151065  WRONG
+     92HoKoToAl.54  2.000e-05  1.358e-04  1719.35053465  WRONG
+     10ToSuBrCr.890  3.000e-04  0.000e+00  4590.25918665
+
+
+46)  92HoKoToAl.120 orig_unc = 2.000e-05 opt_unc = 1.330e-04 ratio = 6.652
+
+   upper state: 0 2 0 0 57 e   MARVEL energy = 1719.35039888
+     04Horneman.109  3.501e-03  1.240e-04  1719.35027485
+     04Horneman.50  3.501e-03  1.368e-04  1672.75929085
+     04Horneman.601  4.800e-06  1.626e-07  1174.32473185
+     76MeDuMe.94  5.000e-03  5.703e-05  1719.35034185
+     79WePeMa.118  4.136e-04  1.238e-03  1719.34916066  WRONG
+     79WePeMa.4  3.836e-04  9.854e-04  1672.75816870  WRONG
+     85JoHoKaMa.352  5.000e-03  2.909e-04  1198.14563685
+     85JoHoKaMa.377  5.000e-03  1.348e-04  1174.32459685
+     90ToHoAl.130  8.000e-04  1.670e-04  1719.35023185
+     90ToHoAl.58  8.000e-04  1.878e-04  1672.75934185
+     91BlCoDeWa.25  5.350e-02  5.703e-05  1719.35034185
+     91BlCoDeWa.48  5.350e-02  1.878e-04  1672.75934185
+     92HoKoToAl.120  2.000e-05  1.330e-04  1719.35026585  WRONG
+     92HoKoToAl.54  2.000e-05  1.358e-04  1672.75928985  WRONG
+     10ToSuBrCr.890  3.000e-04  0.000e+00  4543.66794185
+
+
+47)  10ToSuBrCr.171 orig_unc = 3.000e-04 opt_unc = 1.915e-03 ratio = 6.382
+
+   upper state: 0 1 2 1 38 e   MARVEL energy = 4904.47130640
+     10ToSuBrCr.171  3.000e-04  1.915e-03  4904.46939173  WRONG
+     10ToSuBrCr.211  3.000e-04  1.915e-03  4935.73109173  WRONG
+
+
+48)  10ToSuBrCr.211 orig_unc = 3.000e-04 opt_unc = 1.915e-03 ratio = 6.382
+
+   upper state: 0 1 2 1 38 e   MARVEL energy = 4904.47130640
+     10ToSuBrCr.171  3.000e-04  1.915e-03  4873.21152108  WRONG
+     10ToSuBrCr.211  3.000e-04  1.915e-03  4904.47322108  WRONG
+
+
+49)  03BeCaDiFa.163 orig_unc = 1.000e-02 opt_unc = 6.319e-02 ratio = 6.319
+
+   upper state: 0 1 5 1 57 e   MARVEL energy = 11215.83442727
+     03BeCaDiFa.163  1.000e-02  6.319e-02  11215.77123443  WRONG
+     03BeCaDiFa.244  1.000e-02  7.807e-03  11215.84223443
+     03BeCaDiFa.261  1.000e-02  5.539e-02  11262.53823443  WRONG
+
+
+50)  92HoKoToAl.119 orig_unc = 2.000e-05 opt_unc = 1.241e-04 ratio = 6.203
+
+   upper state: 0 2 0 0 56 e   MARVEL energy = 1696.18059739
+     04Horneman.108  3.501e-03  1.351e-04  1696.18046233
+     04Horneman.408  8.000e-06  9.642e-08  1175.00333633
+     04Horneman.49  3.501e-03  1.238e-04  1650.39751633
+     04Horneman.600  4.800e-06  4.784e-09  1151.61075833
+     76MeDuMe.93  5.000e-03  2.939e-04  1696.18089133
+     79WePeMa.117  3.836e-04  1.139e-03  1696.17945791  WRONG
+     79WePeMa.5  3.536e-04  8.842e-04  1650.39650829  WRONG
+     81SaWoMaLa.9  1.001e-04  2.522e-04  1696.18034519  WRONG
+     85JoHoKaMa.351  5.000e-03  8.990e-05  1175.00342633
+     85JoHoKaMa.376  5.000e-03  2.580e-04  1151.61101633
+     90ToHoAl.129  8.000e-04  2.361e-04  1696.18036133
+     90ToHoAl.57  8.000e-04  1.088e-04  1650.39750133
+     91BlCoDeWa.24  5.350e-02  6.054e-06  1696.18059133
+     91BlCoDeWa.47  5.350e-02  1.988e-04  1650.39759133
+     92HoKoToAl.119  2.000e-05  1.241e-04  1696.18047333  WRONG
+     92HoKoToAl.53  2.000e-05  1.408e-04  1650.39753333  WRONG
+     10ToSuBrCr.933  3.000e-04  4.547e-13  4567.19779133
+     10ToSuBrCr.1077  3.000e-04  0.000e+00  4668.36179133
+
+
+51)  10ToSuBrCr.179 orig_unc = 3.000e-04 opt_unc = 1.830e-03 ratio = 6.099
+
+   upper state: 0 1 2 1 25 e   MARVEL energy = 4737.55462335
+     10ToSuBrCr.179  3.000e-04  1.830e-03  4737.55279371  WRONG
+     10ToSuBrCr.204  3.000e-04  1.830e-03  4758.26719371  WRONG
+
+
+52)  10ToSuBrCr.204 orig_unc = 3.000e-04 opt_unc = 1.830e-03 ratio = 6.099
+
+   upper state: 0 1 2 1 25 e   MARVEL energy = 4737.55462335
+     10ToSuBrCr.179  3.000e-04  1.830e-03  4716.84205298  WRONG
+     10ToSuBrCr.204  3.000e-04  1.830e-03  4737.55645298  WRONG
+
+
+53)  72HoRuDi.1 orig_unc = 3.336e-07 opt_unc = 1.905e-06 ratio = 5.711
+
+   upper state: 0 1 0 1 1 f   MARVEL energy = 520.82874789
+     04Horneman.255  3.501e-03  3.583e-06  1041.25135450
+     14GoDeHeVa.57  2.000e-05  1.137e-13  2575.71107850
+     48StWeKy.2  1.001e-06  8.187e-07  521.64158512
+     52KiTo.5  2.669e-05  2.517e-06  521.64158846
+     55Low.3  5.003e-02  2.517e-06  521.64158846
+     59Dymanus.4  1.184e-04  3.317e-05  521.64155277
+     67MoMa.4  1.668e-05  1.820e-07  521.64158612
+     72HoRuDi.1  3.336e-07  1.905e-06  520.82874980  WRONG
+     72ReDyMe.1  3.336e-09  1.903e-10  520.82874789
+     75BuDeSm.81  2.850e-02  1.357e-02  2413.32932350
+     76MeDuMe.392  5.000e-03  1.562e-03  1574.58832350
+     76NaNaUeKu.3  2.000e-02  1.623e-04  1574.58972350
+     80DuDeBuBo.59  1.334e-06  1.820e-07  521.64158612
+     80MaOlSa.295  3.900e-03  6.337e-04  2219.24182350
+     81WePeMaSu.42  1.668e-03  1.207e-03  1373.67659629
+     82KiMi.7  1.334e-04  1.820e-07  521.64158612
+     83JoKaHo.186  8.000e-03  5.416e-05  1373.67544350
+     98FiRuKhLe.82  1.000e-06  7.340e-07  1574.58988650
+     98RbBeVaNa.282  4.000e-04  3.411e-13  5453.66531650
+     98RbBeVaNa.1020  6.000e-04  1.004e-04  6617.05131350
+     02LeBaHuFa.654  1.200e-02  1.036e-02  13333.38732350
+
+
+54)  10ToSuBrCr.218 orig_unc = 3.000e-04 opt_unc = 1.703e-03 ratio = 5.675
+
+   upper state: 0 1 2 1 46 e   MARVEL energy = 5040.84767765
+     10ToSuBrCr.168  3.000e-04  1.703e-03  5003.10408018  WRONG
+     10ToSuBrCr.218  3.000e-04  1.703e-03  5040.84938018  WRONG
+
+
+55)  10ToSuBrCr.168 orig_unc = 3.000e-04 opt_unc = 1.703e-03 ratio = 5.675
+
+   upper state: 0 1 2 1 46 e   MARVEL energy = 5040.84767765
+     10ToSuBrCr.168  3.000e-04  1.703e-03  5040.84597513  WRONG
+     10ToSuBrCr.218  3.000e-04  1.703e-03  5078.59127513  WRONG
+
+
+56)  03BeCaDiFa.261 orig_unc = 1.000e-02 opt_unc = 5.539e-02 ratio = 5.539
+
+   upper state: 0 1 5 1 57 e   MARVEL energy = 11215.83442727
+     03BeCaDiFa.163  1.000e-02  6.319e-02  11169.12281294  WRONG
+     03BeCaDiFa.244  1.000e-02  7.807e-03  11169.19381294
+     03BeCaDiFa.261  1.000e-02  5.539e-02  11215.88981294  WRONG
+
+
+57)  03BeCaDiFa.160 orig_unc = 1.000e-02 opt_unc = 5.276e-02 ratio = 5.276
+
+   upper state: 0 1 5 1 54 e   MARVEL energy = 11149.67591228
+     03BeCaDiFa.160  1.000e-02  5.276e-02  11149.62315229  WRONG
+     03BeCaDiFa.242  1.000e-02  1.224e-02  11149.68815229  WRONG
+     03BeCaDiFa.260  1.000e-02  4.052e-02  11193.93615229  WRONG
+
+
+58)  91TaLoLu.89 orig_unc = 1.300e-04 opt_unc = 6.857e-04 ratio = 5.275
+
+   upper state: 1 1 0 1 9 f   MARVEL energy = 1390.70929457
+     80MaOlSa.37  4.400e-03  4.051e-03  1390.70524387
+     84TaItTa.75  3.336e-06  1.126e-06  546.84038882
+     91TaLoLu.2  1.300e-04  1.021e-03  1398.43397687  WRONG
+     91TaLoLu.89  1.300e-04  6.857e-04  1390.70860887  WRONG
+
+
+59)  75BuDeSm.90 orig_unc = 1.050e-02 opt_unc = 5.526e-02 ratio = 5.263
+
+   upper state: 1 4 0 0 8 e   MARVEL energy = 2951.79425574
+     75BuDeSm.90  1.050e-02  5.526e-02  2951.73899551  WRONG
+     88MaOlWeVa.34  6.672e-04  2.232e-04  2958.71263295
+
+
+60)  10ToSuBrCr.163 orig_unc = 3.000e-04 opt_unc = 1.575e-03 ratio = 5.250
+
+   upper state: 0 1 2 1 53 e   MARVEL energy = 5181.19298500
+     14GoDeHeVa.1133  5.000e-05  4.581e-05  5224.60322989
+     10ToSuBrCr.163  3.000e-04  1.575e-03  5181.19140989  WRONG
+     10ToSuBrCr.223  3.000e-04  7.419e-05  5224.60310989
+
+
+61)  76MeDuMe.685 orig_unc = 5.000e-03 opt_unc = 2.606e-02 ratio = 5.212
+
+   upper state: 0 4 0 2 34 e   MARVEL energy = 2342.25229348
+     76MeDuMe.660  5.000e-03  1.986e-02  2314.19835370  WRONG
+     76MeDuMe.685  5.000e-03  2.606e-02  2342.27835370  WRONG
+     81SaWoMaLa.55  1.001e-03  1.480e-03  2314.17701830  WRONG
+     90ToHoAl.502  8.000e-04  2.298e-04  2342.25206370
+
+
+62)  10ToSuBrCr.165 orig_unc = 3.000e-04 opt_unc = 1.558e-03 ratio = 5.192
+
+   upper state: 0 1 2 1 50 e   MARVEL energy = 5118.64373179
+     10ToSuBrCr.165  3.000e-04  1.558e-03  5118.64217412  WRONG
+     10ToSuBrCr.220  3.000e-04  1.558e-03  5159.62687412  WRONG
+
+
+63)  10ToSuBrCr.220 orig_unc = 3.000e-04 opt_unc = 1.558e-03 ratio = 5.192
+
+   upper state: 0 1 2 1 50 e   MARVEL energy = 5118.64373179
+     10ToSuBrCr.165  3.000e-04  1.558e-03  5077.66058947  WRONG
+     10ToSuBrCr.220  3.000e-04  1.558e-03  5118.64528947  WRONG
+
+
+64)  95ErVaBrFa.94 orig_unc = 4.000e-03 opt_unc = 2.073e-02 ratio = 5.183
+
+   upper state: 0 1 1 1 39 e   MARVEL energy = 2890.19616861
+     83KlYaWi.47  4.300e-03  2.113e-02  2369.38813656  WRONG
+     83KlYaWi.5  4.300e-03  2.115e-02  2337.31943656  WRONG
+     90WeScMa.19  2.669e-04  2.551e-04  2369.40951877
+     95ErVaBrFa.94  4.000e-03  2.073e-02  2890.17543656  WRONG
+
+
+65)  03BeCaDiFa.246 orig_unc = 1.000e-02 opt_unc = 5.133e-02 ratio = 5.133
+
+   upper state: 0 1 5 1 60 e   MARVEL energy = 11285.49301188
+     03BeCaDiFa.165  1.000e-02  2.567e-02  11285.46734521  WRONG
+     03BeCaDiFa.246  1.000e-02  5.133e-02  11285.54434521  WRONG
+     14GoDeHeVa.238  1.000e-02  2.567e-02  11285.46734521  WRONG
+
+
+66)  75BuDeSm.91 orig_unc = 1.050e-02 opt_unc = 5.353e-02 ratio = 5.098
+
+   upper state: 1 4 0 0 9 e   MARVEL energy = 2955.45598775
+     75BuDeSm.91  1.050e-02  5.353e-02  2955.40245836  WRONG
+     88MaOlWeVa.38  2.670e-04  3.428e-05  2963.18802662
+     95ErVaBrFa.286  4.000e-03  7.202e-05  4010.27505836
+
+
+67)  83KlYaWi.128 orig_unc = 4.300e-03 opt_unc = 2.189e-02 ratio = 5.091
+
+   upper state: 0 1 1 1 39 f   MARVEL energy = 2890.48960675
+     83KlYaWi.128  4.300e-03  2.189e-02  2890.51150015  WRONG
+     83KlYaWi.89  4.300e-03  2.113e-02  2858.40860015  WRONG
+     90WeScMa.18  2.669e-04  1.657e-04  2890.48944107
+
+
+68)  83KlYaWi.5 orig_unc = 4.300e-03 opt_unc = 2.115e-02 ratio = 4.919
+
+   upper state: 0 1 1 1 39 e   MARVEL energy = 2890.19616861
+     83KlYaWi.47  4.300e-03  2.113e-02  2922.24371811  WRONG
+     83KlYaWi.5  4.300e-03  2.115e-02  2890.17501811  WRONG
+     90WeScMa.19  2.669e-04  2.551e-04  2922.26510032
+     95ErVaBrFa.94  4.000e-03  2.073e-02  3443.03101811  WRONG
+
+
+69)  83KlYaWi.47 orig_unc = 4.300e-03 opt_unc = 2.113e-02 ratio = 4.913
+
+   upper state: 0 1 1 1 39 e   MARVEL energy = 2890.19616861
+     83KlYaWi.47  4.300e-03  2.113e-02  2890.17504150  WRONG
+     83KlYaWi.5  4.300e-03  2.115e-02  2858.10634150  WRONG
+     90WeScMa.19  2.669e-04  2.551e-04  2890.19642371
+     95ErVaBrFa.94  4.000e-03  2.073e-02  3410.96234150  WRONG
+
+
+70)  83KlYaWi.89 orig_unc = 4.300e-03 opt_unc = 2.113e-02 ratio = 4.913
+
+   upper state: 0 1 1 1 39 f   MARVEL energy = 2890.48960675
+     83KlYaWi.128  4.300e-03  2.189e-02  2922.61363372  WRONG
+     83KlYaWi.89  4.300e-03  2.113e-02  2890.51073372  WRONG
+     90WeScMa.18  2.669e-04  1.657e-04  2922.59157464
+
+
+71)  98RbBeVaNa.88 orig_unc = 4.000e-04 opt_unc = 1.959e-03 ratio = 4.899
+
+   upper state: 2 3 1 1 4 e   MARVEL energy = 5284.56860586
+     98RbBeVaNa.79  4.000e-04  1.959e-03  5280.91472939  WRONG
+     98RbBeVaNa.88  4.000e-04  1.959e-03  5284.56664639  WRONG
+
+
+72)  98RbBeVaNa.79 orig_unc = 4.000e-04 opt_unc = 1.959e-03 ratio = 4.899
+
+   upper state: 2 3 1 1 4 e   MARVEL energy = 5284.56860586
+     98RbBeVaNa.79  4.000e-04  1.959e-03  5284.57056534  WRONG
+     98RbBeVaNa.88  4.000e-04  1.959e-03  5288.22248234  WRONG
+
+
+73)  10ToSuBrCr.164 orig_unc = 3.000e-04 opt_unc = 1.420e-03 ratio = 4.733
+
+   upper state: 0 1 2 1 51 e   MARVEL energy = 5139.09453057
+     14GoDeHeVa.1131  5.000e-05  3.567e-05  5180.88581082
+     10ToSuBrCr.164  3.000e-04  1.420e-03  5139.09311082  WRONG
+     10ToSuBrCr.221  3.000e-04  1.357e-04  5180.88591082
+
+
+74)  75BuDeSm.93 orig_unc = 1.050e-02 opt_unc = 4.899e-02 ratio = 4.666
+
+   upper state: 1 4 0 0 11 e   MARVEL energy = 2963.99310579
+     75BuDeSm.93  1.050e-02  4.899e-02  2963.94411361  WRONG
+     95ErVaBrFa.288  4.000e-03  7.110e-03  4020.47061361  WRONG
+
+
+75)  75BuDeSm.27 orig_unc = 2.850e-02 opt_unc = 1.321e-01 ratio = 4.634
+
+   upper state: 1 3 0 1 27 e   MARVEL energy = 2565.59730862
+     75BuDeSm.27  2.850e-02  1.321e-01  2565.72937825  WRONG
+     88MaOlWeVa.12  6.672e-04  7.080e-05  2565.59723782
+     77BuCaMcMu.36  5.000e-02  8.930e-03  2565.58837825
+
+
+76)  10ToSuBrCr.161 orig_unc = 3.000e-04 opt_unc = 1.389e-03 ratio = 4.631
+
+   upper state: 0 1 2 1 57 e   MARVEL energy = 5270.18832369
+     10ToSuBrCr.161  3.000e-04  1.389e-03  5270.18693443  WRONG
+     10ToSuBrCr.226  3.000e-04  1.389e-03  5316.83813443  WRONG
+
+
+77)  10ToSuBrCr.226 orig_unc = 3.000e-04 opt_unc = 1.389e-03 ratio = 4.631
+
+   upper state: 0 1 2 1 57 e   MARVEL energy = 5270.18832369
+     10ToSuBrCr.161  3.000e-04  1.389e-03  5223.53851294  WRONG
+     10ToSuBrCr.226  3.000e-04  1.389e-03  5270.18971294  WRONG
+
+
+78)  92HoKoToAl.101 orig_unc = 2.000e-05 opt_unc = 9.260e-05 ratio = 4.630
+
+   upper state: 0 2 0 0 38 e   MARVEL energy = 1348.51991120
+     04Horneman.33  3.501e-03  2.146e-06  1317.29980681
+     04Horneman.391  6.000e-06  5.878e-06  827.75164981
+     04Horneman.582  4.800e-06  3.050e-06  812.01126181
+     76MeDuMe.36  5.000e-03  3.051e-03  1317.29675381
+     76MeDuMe.75  5.000e-03  1.574e-04  1348.51975381
+     79WePeMa.23  6.671e-05  2.277e-05  1317.29978189
+     79WePeMa.99  6.671e-05  2.771e-05  1348.51988350
+     81SaWoMaLa.78  1.001e-03  1.336e-04  1145.36106687
+     85JoHoKaMa.335  5.000e-03  3.451e-04  827.75129881
+     85JoHoKaMa.363  5.000e-03  1.360e-04  812.01112881
+     90ToHoAl.111  1.600e-03  7.626e-04  1348.52067381
+     90ToHoAl.39  8.000e-04  5.085e-05  1317.29975381
+     90ToHoAl.440  8.000e-04  2.860e-04  1359.58064381
+     92HoKoToAl.101  2.000e-05  9.260e-05  1348.52000381  WRONG
+     92HoKoToAl.35  2.000e-05  2.146e-06  1317.29980681
+     92MaWe.31  1.400e-05  1.396e-06  1348.51990981
+     98FiRuKhLe.160  1.000e-06  1.464e-07  1317.29980481
+     98FiRuKhLe.38  1.000e-06  3.956e-07  1348.51991081
+     10ToSuBrCr.1297  3.000e-04  6.231e-05  4418.42725381
+     10ToSuBrCr.1320  3.000e-04  1.354e-04  4449.73155381
+
+
+79)  04Horneman.358 orig_unc = 7.000e-06 opt_unc = 3.224e-05 ratio = 4.605
+
+   upper state: 0 2 0 0 39 e   MARVEL energy = 1364.38273587
+     04Horneman.34  3.501e-03  4.731e-06  1885.20837411
+     04Horneman.358  7.000e-06  3.224e-05  1364.38276811  WRONG
+     04Horneman.392  6.000e-06  1.376e-06  1396.45141111
+     04Horneman.583  4.800e-06  1.666e-07  1380.28908711
+     04Horneman.92  3.501e-03  6.686e-06  1917.23832411
+     76MeDuMe.37  5.000e-03  1.451e-03  1885.20691811
+     76MeDuMe.76  5.000e-03  1.399e-03  1917.23691811
+     79WePeMa.100  7.005e-05  4.470e-05  1917.23827273
+     79WePeMa.22  6.671e-05  4.185e-05  1885.20832753
+     81SaWoMaLa.30  1.001e-04  3.220e-06  1928.29330734
+     85JoHoKaMa.336  5.000e-03  3.938e-05  1396.45137311
+     85JoHoKaMa.364  5.000e-03  5.558e-04  1380.28964311
+     88MaOlWeVa.53  6.672e-04  1.090e-06  2759.76188284
+     90ToHoAl.112  8.000e-04  7.931e-05  1917.23823811
+     90ToHoAl.40  8.000e-04  4.127e-05  1885.20832811
+     90ToHoAl.441  8.000e-04  5.245e-05  1928.29325811
+     91BlCoDeWa.15  5.350e-02  1.007e-04  1917.23841811
+     92HoKoToAl.102  2.000e-05  3.142e-07  1917.23831711
+     92HoKoToAl.36  2.000e-05  2.692e-07  1885.20836911
+     92MaWe.36  1.400e-05  1.314e-06  1917.23831611
+     98FiRuKhLe.161  1.000e-06  2.692e-07  1885.20836911
+     98FiRuKhLe.39  1.000e-06  3.142e-07  1917.23831711
+     10ToSuBrCr.898  3.000e-04  1.063e-04  4759.16311811
+     10ToSuBrCr.1086  3.000e-04  6.420e-08  4908.01501811
+     10ToSuBrCr.1321  3.000e-04  4.547e-13  5018.39361811
+     98RbBeVaNa.263  4.000e-04  1.191e-04  5777.43006711
+     98RbBeVaNa.947  6.000e-04  2.178e-04  6908.70932211
+
+
+80)  75BuDeSm.92 orig_unc = 1.050e-02 opt_unc = 4.787e-02 ratio = 4.559
+
+   upper state: 1 4 0 0 10 e   MARVEL energy = 2959.51770691
+     75BuDeSm.92  1.050e-02  4.787e-02  2959.46983323  WRONG
+     95ErVaBrFa.287  4.000e-03  6.948e-03  4015.16873323  WRONG
+
+
+81)  75BuDeSm.25 orig_unc = 2.850e-02 opt_unc = 1.294e-01 ratio = 4.540
+
+   upper state: 1 3 0 1 25 e   MARVEL energy = 2544.08089582
+     75BuDeSm.25  2.850e-02  1.294e-01  2544.21029371  WRONG
+     88MaOlWeVa.49  5.005e-04  3.974e-05  2564.79159681
+     77BuCaMcMu.34  5.000e-02  1.602e-03  2544.07929371
+
+
+82)  03BeCaDiFa.243 orig_unc = 1.000e-02 opt_unc = 4.500e-02 ratio = 4.500
+
+   upper state: 0 1 5 1 55 e   MARVEL energy = 11171.28881294
+     03BeCaDiFa.161  1.000e-02  2.700e-02  11171.26181294  WRONG
+     03BeCaDiFa.243  1.000e-02  4.500e-02  11171.33381294  WRONG
+     14GoDeHeVa.237  1.000e-02  1.800e-02  11171.27081294  WRONG
+
+
+83)  77BuCaMcMu.47 orig_unc = 5.000e-02 opt_unc = 2.242e-01 ratio = 4.483
+
+   upper state: 1 3 0 1 38 e   MARVEL energy = 2713.15605959
+     75BuDeSm.36  2.850e-02  7.283e-02  2713.22889173  WRONG
+     77BuCaMcMu.47  5.000e-02  2.242e-01  2712.93189173  WRONG
+
+
+84)  10ToSuBrCr.190 orig_unc = 3.000e-04 opt_unc = 1.318e-03 ratio = 4.393
+
+   upper state: 0 1 2 1 7 e   MARVEL energy = 4618.34878131
+     10ToSuBrCr.190  3.000e-04  1.318e-03  4618.34746346  WRONG
+     10ToSuBrCr.195  3.000e-04  1.318e-03  4624.44306346  WRONG
+
+
+85)  10ToSuBrCr.195 orig_unc = 3.000e-04 opt_unc = 1.318e-03 ratio = 4.393
+
+   upper state: 0 1 2 1 7 e   MARVEL energy = 4618.34878131
+     10ToSuBrCr.190  3.000e-04  1.318e-03  4612.25449915  WRONG
+     10ToSuBrCr.195  3.000e-04  1.318e-03  4618.35009915  WRONG
+
+
+86)  80MaOlSa.356 orig_unc = 3.800e-03 opt_unc = 1.669e-02 ratio = 4.392
+
+   upper state: 2 1 0 1 26 e   MARVEL energy = 2359.77224225
+     80MaOlSa.227  3.800e-03  1.669e-02  2338.26649151  WRONG
+     80MaOlSa.356  3.800e-03  1.669e-02  2359.75555151  WRONG
+
+
+87)  80MaOlSa.227 orig_unc = 3.800e-03 opt_unc = 1.669e-02 ratio = 4.392
+
+   upper state: 2 1 0 1 26 e   MARVEL energy = 2359.77224225
+     80MaOlSa.227  3.800e-03  1.669e-02  2359.78893300  WRONG
+     80MaOlSa.356  3.800e-03  1.669e-02  2381.27799300  WRONG
+
+
+88)  75BuDeSm.95 orig_unc = 1.050e-02 opt_unc = 4.566e-02 ratio = 4.349
+
+   upper state: 1 4 0 0 13 e   MARVEL energy = 2974.17199460
+     75BuDeSm.95  1.050e-02  4.566e-02  2974.12633377  WRONG
+     88MaOlWeVa.19  3.337e-04  4.681e-05  2974.17204141
+     95ErVaBrFa.290  4.000e-03  9.988e-05  4032.29863377
+
+
+89)  06MaRoBoMo.9 orig_unc = 1.001e-03 opt_unc = 4.321e-03 ratio = 4.318
+
+   upper state: 0 0 0 0 90 e   MARVEL energy = 1658.48357699
+     05GoLaGuKn.40  9.673e-07  2.303e-07  1658.48357676
+     06MaRoBoMo.10  1.001e-03  3.158e-03  1658.88817470  WRONG
+     06MaRoBoMo.9  1.001e-03  4.321e-03  1658.48789778  WRONG
+     09MoHiCuYa.24  6.671e-06  1.061e-05  1658.48358760  WRONG
+     14GoDeHeVa.1126  5.000e-04  2.274e-13  5406.05801500
+     14GoDeHeVa.1284  1.000e-03  2.274e-13  7674.11558500
+     81SeVa.28  4.000e-03  3.522e-03  1658.48005500
+     81SeVa.29  4.000e-03  1.962e-03  1658.88305500
+     81WePeMaSu.248  2.869e-04  4.714e-06  2512.72488796
+     81WePeMaSu.259  2.502e-04  5.549e-05  3286.78125532
+     81WePeMaSu.439  3.302e-04  4.714e-06  3359.50481596
+     81WePeMaSu.68  2.268e-04  5.382e-05  2439.77248567
+     85HuFoJoMc.2  3.800e-03  2.274e-13  3638.15178500
+     89VaJeWe.17  6.671e-06  2.135e-07  1658.88501631
+
+
+90)  90WeScMa.14 orig_unc = 5.003e-04 opt_unc = 2.160e-03 ratio = 4.316
+
+   upper state: 0 1 1 1 8 e   MARVEL energy = 2589.84480682
+     80BoBa.46  1.668e-06  2.377e-08  541.93153499
+     83KlYaWi.17  4.300e-03  1.697e-03  2589.84650373
+     83KlYaWi.24  4.300e-03  2.144e-04  2596.74990373
+     90WeScMa.14  5.003e-04  2.160e-03  2589.84264712  WRONG
+
+
+91)  10ToSuBrCr.160 orig_unc = 3.000e-04 opt_unc = 1.293e-03 ratio = 4.310
+
+   upper state: 0 1 2 1 58 e   MARVEL energy = 5293.43668345
+     14GoDeHeVa.1136  1.000e-04  1.243e-04  5340.89444049  WRONG
+     10ToSuBrCr.160  3.000e-04  1.293e-03  5293.43539049  WRONG
+     10ToSuBrCr.227  3.000e-04  1.743e-04  5340.89449049
+
+
+92)  10ToSuBrCr.159 orig_unc = 3.000e-04 opt_unc = 1.281e-03 ratio = 4.272
+
+   upper state: 0 1 2 1 60 e   MARVEL energy = 5341.13332667
+     14GoDeHeVa.1138  5.000e-05  3.382e-05  5390.20641521
+     10ToSuBrCr.159  3.000e-04  1.281e-03  5341.13204521  WRONG
+     10ToSuBrCr.229  3.000e-04  6.382e-05  5390.20644521
+
+
+93)  75BuDeSm.94 orig_unc = 1.050e-02 opt_unc = 4.484e-02 ratio = 4.271
+
+   upper state: 1 4 0 0 12 e   MARVEL energy = 2968.87612515
+     75BuDeSm.94  1.050e-02  4.484e-02  2968.83128222  WRONG
+     95ErVaBrFa.289  4.000e-03  6.508e-03  4026.18058222  WRONG
+
+
+94)  03BeCaDiFa.188 orig_unc = 1.000e-02 opt_unc = 4.263e-02 ratio = 4.263
+
+   upper state: 0 1 5 1 59 e   MARVEL energy = 11261.87186616
+     03BeCaDiFa.164  1.000e-02  2.918e-02  11213.57823443  WRONG
+     03BeCaDiFa.188  1.000e-02  4.263e-02  11261.82923443  WRONG
+     03BeCaDiFa.245  1.000e-02  7.182e-02  11213.67923443  WRONG
+
+
+95)  77BuCaMcMu.46 orig_unc = 5.000e-02 opt_unc = 2.121e-01 ratio = 4.242
+
+   upper state: 1 3 0 1 37 e   MARVEL energy = 2697.71533297
+     75BuDeSm.35  2.850e-02  6.891e-02  2697.78424150  WRONG
+     77BuCaMcMu.46  5.000e-02  2.121e-01  2697.50324150  WRONG
+
+
+96)  75BuDeSm.102 orig_unc = 1.050e-02 opt_unc = 4.434e-02 ratio = 4.223
+
+   upper state: 1 4 0 0 20 e   MARVEL energy = 3022.58155782
+     75BuDeSm.102  1.050e-02  4.434e-02  3022.53721704  WRONG
+     95ErVaBrFa.296  4.000e-03  6.435e-03  4086.55091704  WRONG
+
+
+97)  70WiGo.8 orig_unc = 6.491e-08 opt_unc = 2.672e-07 ratio = 4.116
+
+   upper state: 0 0 0 0 16 e   MARVEL energy = 55.17382156
+     03BeCaDiFa.10  1.000e-02  2.410e-03  8995.94211708
+     03BeCaDiFa.21  1.000e-02  8.053e-03  9009.01511708
+     03BeCaDiFa.277  1.000e-02  1.410e-03  10121.68811708
+     03BeCaDiFa.357  1.000e-02  4.553e-03  10134.67711708
+     03BeCaDiFa.393  1.000e-02  1.910e-03  10155.39511708
+     03BeCaDiFa.438  1.000e-02  1.053e-03  10168.55511708
+     03BeCaDiFa.52  1.000e-02  3.910e-03  9974.70911708
+     03BeCaDiFa.83  1.000e-02  9.553e-03  9987.80611708
+     04Horneman.11  3.501e-03  3.426e-06  1089.38455308
+     04Horneman.133  3.504e-03  2.897e-06  562.67379608
+     04Horneman.198  3.504e-03  1.655e-06  576.07706008
+     04Horneman.270  3.501e-03  1.853e-06  569.23010208
+     04Horneman.74  3.501e-03  5.334e-06  1102.81294708
+     04SuLiLeXu.14  1.351e-06  2.814e-07  1089.38454994
+     05GoLaGuKn.3  2.669e-08  1.389e-08  55.57939316
+     14GoDeHeVa.147  7.000e-03  1.706e-03  11815.47011708
+     14GoDeHeVa.689  1.000e-03  3.126e-13  7839.64588708
+     14GoDeHeVa.690  1.000e-03  3.126e-13  7852.89251708
+     14GoDeHeVa.768  5.000e-03  3.126e-13  8013.28119708
+     14GoDeHeVa.787  1.000e-03  3.126e-13  7999.36062708
+     14GoDeHeVa.789  1.000e-03  3.126e-13  8012.55997708
+     14GoDeHeVa.858  1.000e-03  3.126e-13  8151.78621708
+     14GoDeHeVa.859  1.000e-03  3.126e-13  8164.85947708
+     14GoDeHeVa.1225  6.000e-04  3.126e-13  6054.23829708
+     53KiGo.5  1.334e-05  7.839e-06  55.17382940
+     57AlPlBl.15  1.000e-01  8.527e-14  1947.77711708
+     57AlPlBl.66  1.000e-01  5.045e-02  1934.39611708
+     57AlPlBl.157  1.000e-01  7.191e-02  2959.94811708
+     57AlPlBl.205  2.000e-01  8.870e-02  4156.31311708
+     57AlPlBl.248  1.000e-01  6.572e-02  4143.06311708
+     57AlPlBl.300  1.000e-01  8.619e-02  4196.87011708
+     57AlPlBl.364  1.000e-01  7.390e-02  4183.47211708
+     57AlPlBl.506  1.000e-01  2.984e-02  4828.31311708
+     57AlPlBl.550  1.000e-01  3.112e-02  4815.02311708
+     57AlPlBl.611  1.000e-01  1.597e-02  5008.60311708
+     57AlPlBl.653  1.000e-01  3.452e-02  4995.42311708
+     57AlPlBl.711  1.000e-01  3.303e-02  6172.08311708
+     57AlPlBl.742  1.000e-01  8.166e-02  6158.98311708
+     65TrCo.16  1.000e-01  1.095e-02  3823.50611708
+     65TrCo.160  1.000e-01  5.260e-03  3979.38011708
+     65TrCo.222  1.000e-01  6.184e-02  5176.10311708
+     65TrCo.265  1.000e-01  6.634e-02  5162.83311708
+     65TrCo.317  1.000e-01  2.586e-02  6014.23311708
+     65TrCo.354  1.000e-01  8.688e-04  6001.01311708
+     65TrCo.400  1.000e-01  2.828e-02  6209.89311708
+     65TrCo.432  1.000e-01  4.831e-02  6196.56311708
+     65TrCo.477  1.000e-01  1.420e-02  7007.43311708
+     65TrCo.52  1.000e-01  5.410e-03  3810.25311708
+     65TrCo.93  1.000e-01  2.750e-02  3992.72211708
+     70WiGo.8  6.491e-08  2.672e-07  55.17382183  WRONG
+     70WiGo.9  6.896e-08  1.596e-07  55.57939334  WRONG
+     74LaWi.13  5.003e-07  8.705e-08  55.17382165
+     74LaWi.14  1.001e-06  1.027e-06  55.57939420  WRONG
+     76MeDuMe.118  5.000e-03  1.965e-03  2147.29011708
+     76MeDuMe.13  5.000e-03  1.433e-03  1089.38311708
+     76MeDuMe.162  5.000e-03  7.969e-04  2160.75011708
+     76MeDuMe.57  5.000e-03  8.247e-04  1102.81211708
+     79Guelachv.74  3.564e-03  1.696e-05  2117.40871708
+     79WePeMa.46  6.671e-05  4.498e-05  1089.38459463
+     79WePeMa.78  6.671e-05  4.607e-05  1102.81298782
+     80DuDeBuBo.16  3.336e-07  2.672e-07  55.17382183
+     80DuDeBuBo.17  1.668e-07  1.596e-07  55.57939334
+     80MaOlSa.118  3.800e-03  1.588e-03  914.36271708
+     80MaOlSa.433  3.800e-03  5.907e-04  1766.18111708
+     80MaOlSa.62  3.800e-03  5.837e-04  901.01351708
+     81WePeMaSu.142  4.336e-05  2.157e-06  901.01409867
+     81WePeMaSu.174  4.003e-05  6.568e-06  914.36112223
+     81WePeMaSu.333  1.034e-04  9.214e-05  1752.87546538
+     81WePeMaSu.365  9.673e-05  5.300e-05  1766.18176076
+     82KiMi.85  1.334e-04  1.671e-07  55.17382173
+     82KiMi.88  1.334e-04  1.262e-07  55.57939330
+     83ScWi.16  6.671e-07  2.672e-07  55.17382183
+     83ScWi.17  6.671e-07  6.332e-07  55.57939381
+     83WePeMa.2  2.347e-05  1.127e-05  1752.87536197
+     85JoHoKaMa.127  5.000e-03  1.815e-05  569.23008208
+     85JoHoKaMa.13  5.000e-03  5.890e-05  562.67385208
+     85JoHoKaMa.76  5.000e-03  2.366e-05  576.07708208
+     90ToHoAl.16  8.000e-04  7.257e-05  1089.38447708
+     90ToHoAl.90  8.000e-04  1.467e-05  1102.81292708
+     92HoKoToAl.12  2.000e-05  2.057e-05  1089.38452908  WRONG
+     92HoKoToAl.80  2.000e-05  5.666e-06  1102.81293608
+     94GeWaSaMu.1  7.672e-07  1.755e-07  1934.44657114
+     95BeFaGu.1  1.000e-03  4.238e-06  1934.44656708
+     95ErVaBrFa.113  4.000e-03  1.035e-05  2773.48591708
+     95ErVaBrFa.159  4.000e-03  3.035e-06  2786.84401708
+     95ErVaBrFa.197  4.000e-03  5.237e-06  2959.87621708
+     95ErVaBrFa.235  4.000e-03  6.752e-05  2973.14721708
+     95ErVaBrFa.294  4.000e-03  4.326e-03  2992.90651708  WRONG
+     95ErVaBrFa.333  4.000e-03  1.421e-13  3137.61611708
+     95ErVaBrFa.77  4.000e-03  4.540e-04  2617.27231708
+     95WeDaHoMa.2  1.284e-06  4.917e-07  1934.44657181
+     96HoBoStDe.114  1.000e-02  5.053e-03  12081.38011708
+     96HoBoStDe.68  1.000e-02  9.910e-03  12068.46311708
+     98FiRuKhLe.137  1.000e-06  5.745e-07  1089.38454908
+     98FiRuKhLe.17  1.000e-06  6.662e-07  1102.81294108
+     10ToSuBrCr.82  3.000e-04  3.211e-06  4156.22441708
+     10ToSuBrCr.434  3.000e-04  1.431e-06  4183.39821708
+     10ToSuBrCr.785  3.000e-04  3.981e-05  3979.37481708
+     10ToSuBrCr.806  3.000e-04  3.351e-06  3992.69461708
+     10ToSuBrCr.1211  3.000e-04  1.421e-13  4010.96531708
+     10ToSuBrCr.1223  3.000e-04  2.970e-04  4024.20751708
+     10ToSuBrCr.1265  3.000e-04  1.421e-13  4032.54601708
+     98RbBeVaNa.342  4.000e-04  1.046e-04  4995.38869808
+     98RbBeVaNa.375  4.000e-04  4.203e-06  5008.58714808
+     98RbBeVaNa.408  4.000e-04  9.811e-05  5025.82626808
+     98RbBeVaNa.476  4.000e-04  1.552e-04  5162.76662508
+     98RbBeVaNa.589  4.000e-04  1.723e-04  5486.28498908
+     98RbBeVaNa.604  4.000e-04  1.410e-04  5499.43316708
+     98RbBeVaNa.637  6.000e-04  2.853e-04  5644.22794208
+     98RbBeVaNa.656  6.000e-04  3.126e-13  5657.49480808
+     98RbBeVaNa.703  6.000e-04  1.912e-04  5833.90993408
+     98RbBeVaNa.732  6.000e-04  3.435e-05  5843.30879108
+     98RbBeVaNa.750  6.000e-04  2.405e-04  5847.22009608
+     98RbBeVaNa.857  6.000e-04  8.915e-05  6001.01215908
+     98RbBeVaNa.919  6.000e-04  2.171e-04  6014.25876208
+     98RbBeVaNa.1036  6.000e-04  2.263e-05  6158.90143408
+     98RbBeVaNa.1071  6.000e-04  7.085e-05  6172.05001808
+     98RbBeVaNa.1106  6.000e-04  1.509e-04  6196.61127408
+     98RbBeVaNa.1134  6.000e-04  1.684e-05  6209.92141608
+     98RbBeVaNa.1177  1.000e-03  6.305e-04  6681.30834108
+     98RbBeVaNa.1205  1.000e-03  1.045e-04  6694.42403408
+     98RbBeVaNa.1226  1.000e-03  4.337e-04  6833.12831108
+     98RbBeVaNa.1243  1.000e-03  7.335e-04  6846.34975108
+     98RbBeVaNa.1280  1.000e-03  3.941e-04  7007.44691808
+     98RbBeVaNa.1308  1.000e-03  1.556e-04  7020.58020708
+     98RbBeVaNa.1330  1.000e-03  3.126e-13  7035.96843108
+     98RbBeVaNa.1364  1.000e-03  1.141e-04  7164.88607208
+     98RbBeVaNa.1385  1.000e-03  1.240e-04  7178.08554308
+     98RbBeVaNa.1443  2.000e-03  9.827e-04  7853.06062208
+     98RbBeVaNa.1461  2.000e-03  7.170e-04  7866.15300208
+     02LeBaHuFa.29  1.000e-02  1.910e-03  10960.89911708
+     02LeBaHuFa.56  1.000e-02  5.447e-03  10973.92911708
+     02LeBaHuFa.68  1.000e-02  1.090e-03  10976.00711708
+     02LeBaHuFa.93  1.000e-02  6.095e-03  10989.09011708
+     02LeBaHuFa.129  1.690e-02  1.911e-03  11100.40311708
+     02LeBaHuFa.141  2.360e-02  2.704e-02  11113.46211708  WRONG
+     02LeBaHuFa.207  5.000e-03  1.835e-03  11782.25411708
+     02LeBaHuFa.248  9.600e-03  5.678e-03  11795.35911708
+     02LeBaHuFa.279  1.000e-02  1.090e-03  11802.53311708
+     02LeBaHuFa.325  1.000e-02  7.061e-04  11815.46911708
+     02LeBaHuFa.427  1.180e-02  4.391e-04  11927.04011708
+     02LeBaHuFa.457  1.000e-02  2.447e-03  11940.06911708
+     02LeBaHuFa.488  1.000e-02  4.090e-03  12747.81311708
+     02LeBaHuFa.510  2.080e-02  2.152e-02  12760.85411708  WRONG
+     02LeBaHuFa.590  1.000e-02  1.090e-03  13992.14811708
+     02LeBaHuFa.619  1.000e-02  6.947e-03  14005.01511708
+     16GoBeLa.13  6.671e-09  3.010e-09  55.17382156
+     16GoBeLa.14  5.003e-09  5.484e-10  55.57939318
+     89WeVa.18  4.003e-04  1.188e-04  1752.87549206
+     24LuGuHeLe.17  1.000e-04  2.752e-05  2973.14717708
+     24LuGuHeLe.48  1.000e-04  2.524e-05  2959.87623708
+
+
+98)  10ToSuBrCr.191 orig_unc = 3.000e-04 opt_unc = 1.232e-03 ratio = 4.107
+
+   upper state: 0 1 2 1 4 e   MARVEL energy = 4611.12292336
+     10ToSuBrCr.191  3.000e-04  1.232e-03  4611.12169134  WRONG
+     10ToSuBrCr.194  3.000e-04  1.232e-03  4614.77999134  WRONG
+
+
+99)  10ToSuBrCr.194 orig_unc = 3.000e-04 opt_unc = 1.232e-03 ratio = 4.107
+
+   upper state: 0 1 2 1 4 e   MARVEL energy = 4611.12292336
+     10ToSuBrCr.191  3.000e-04  1.232e-03  4607.46585539  WRONG
+     10ToSuBrCr.194  3.000e-04  1.232e-03  4611.12415539  WRONG
+
+
+100)  04Horneman.388 orig_unc = 6.000e-06 opt_unc = 2.454e-05 ratio = 4.089
+
+   upper state: 0 2 0 0 35 e   MARVEL energy = 1303.36945021
+     04Horneman.388  6.000e-06  2.454e-05  1303.36947475  WRONG
+     04Horneman.579  4.800e-06  1.627e-07  1288.89259375
+     04Horneman.89  3.501e-03  3.180e-06  1824.08469375
+     14GoDeHeVa.243  5.000e-02  2.274e-13  10781.40928975
+     76MeDuMe.221  5.000e-03  1.127e-03  1806.20428975
+     76MeDuMe.33  5.000e-03  2.298e-03  1795.29228975
+     76MeDuMe.72  5.000e-03  3.407e-03  1824.08128975
+     79WePeMa.26  6.671e-05  1.481e-05  1795.29460298
+     79WePeMa.96  6.671e-05  1.324e-05  1824.08471016
+     81SaWoMaLa.44  1.001e-03  3.760e-04  1806.20504089
+     81SaWoMaLa.81  1.001e-03  2.828e-06  1621.18437569
+     85JoHoKaMa.314  5.000e-03  1.061e-04  1274.54437475
+     85JoHoKaMa.361  5.000e-03  3.292e-04  1288.89226475
+     90ToHoAl.108  8.000e-04  9.718e-05  1824.08459975
+     90ToHoAl.36  1.600e-03  3.584e-04  1795.29422975
+     90ToHoAl.399  8.000e-04  2.529e-04  1806.20566975
+     90ToHoAl.437  8.000e-04  1.063e-04  1835.16179975
+     92HoKoToAl.32  2.000e-05  2.542e-05  1795.29456275  WRONG
+     92HoKoToAl.98  2.000e-05  3.180e-06  1824.08469375
+     92MaWe.19  1.400e-05  1.180e-06  1824.08469575
+     98FiRuKhLe.157  1.000e-06  4.232e-07  1795.29458775
+     98FiRuKhLe.35  1.000e-06  1.805e-07  1824.08469675
+     10ToSuBrCr.899  3.000e-04  1.522e-04  4669.78268975
+     10ToSuBrCr.923  3.000e-04  2.274e-13  4698.50038975
+     10ToSuBrCr.1089  3.000e-04  4.597e-05  4818.98218975
+     10ToSuBrCr.1300  3.000e-04  9.503e-05  4896.59308975
+     10ToSuBrCr.1317  3.000e-04  2.249e-04  4925.45798975
+     98RbBeVaNa.183  4.000e-04  7.383e-05  5656.82594575
+     98RbBeVaNa.949  6.000e-04  1.120e-04  6820.01132575
+     98RbBeVaNa.1009  6.000e-04  4.713e-04  6848.39857575
+
+
