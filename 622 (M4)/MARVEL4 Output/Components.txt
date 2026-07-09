@@ -1,4 +1,4 @@
-1. component   nbEL= 5775  nbTR= 13046
+1. component   nbEL= 5774  nbTR= 13046
 11. component   nbEL= 14  nbTR= 17
 9. component   nbEL= 9  nbTR= 9
 6. component   nbEL= 8  nbTR= 7
