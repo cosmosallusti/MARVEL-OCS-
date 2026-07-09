@@ -99,7 +99,6 @@
 98RbBeVaNa             cm-1
 14GoBeLeAn             MHz
 16GoBeLa             MHz
-90BlWaHiLa             cm-1
 89WeVa             MHz
 25ChAuCaEv             MHz
 98FiRuKh             MHz
