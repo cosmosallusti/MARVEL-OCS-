@@ -1,0 +1,93 @@
+nb of wrong lines = 12
+1)  81WePeMa.10 orig_unc = 6.700e-04 opt_unc = 2.364e-02 ratio = 35.286
+
+   upper state: 1 0 0 0 4 e   MARVEL energy = 851.31279695
+          tag      orig unc.   optimal unc.  predicted energy
+     81WePeMa.10  6.700e-04  2.364e-02  851.28915518  VERY BAD
+     81WePeMa.14  4.000e-04  8.427e-03  854.85085518  VERY BAD
+
+
+2)  85JoHoKaMa.4 orig_unc = 1.000e-03 opt_unc = 3.077e-02 ratio = 30.770
+
+   upper state: 0 1 0 1 9 e   MARVEL energy = 537.09246537
+     85JoHoKaMa.4  1.000e-03  3.077e-02  537.12323489  VERY BAD
+     85JoHoKaMa.28  1.000e-03  9.176e-04  544.58332489
+     84TaItTa.7  1.668e-06  8.852e-10  24.91005780
+     84TaItTa.9  1.668e-06  8.215e-08  25.30629528
+
+
+3)  85JoHoKaMa.30 orig_unc = 1.000e-03 opt_unc = 2.888e-02 ratio = 28.877
+
+   upper state: 0 1 0 1 11 e   MARVEL energy = 545.41401168
+     85JoHoKaMa.6  1.000e-03  6.569e-04  536.28195489
+     85JoHoKaMa.30  1.000e-03  2.888e-02  545.38513489  VERY BAD
+     84TaItTa.11  1.668e-06  8.215e-08  25.70252096
+     83WePeMa.6  6.671e-07  1.607e-14  867.11944823
+
+
+4)  81WePeMa.14 orig_unc = 4.000e-04 opt_unc = 8.427e-03 ratio = 21.066
+
+   upper state: 1 0 0 0 4 e   MARVEL energy = 851.31279695
+     81WePeMa.10  6.700e-04  2.364e-02  847.75952351  VERY BAD
+     81WePeMa.14  4.000e-04  8.427e-03  851.32122351  VERY BAD
+
+
+5)  85JoHoKaMa.1 orig_unc = 1.000e-03 opt_unc = 1.004e-02 ratio = 10.037
+
+   upper state: 0 1 0 1 5 e   MARVEL energy = 525.19301556
+     85JoHoKaMa.1  1.000e-03  1.004e-02  525.18297889  VERY BAD
+     84TaItTa.3  1.668e-06  6.890e-14  9.86277622
+     84TaItTa.5  1.668e-06  2.792e-08  10.29240058
+
+
+6)  85JoHoKaMa.2 orig_unc = 1.000e-03 opt_unc = 1.004e-02 ratio = 10.037
+
+   upper state: 0 1 0 1 6 e   MARVEL energy = 527.57067727
+     85JoHoKaMa.2  1.000e-03  1.004e-02  527.58071394  VERY BAD
+     84TaItTa.5  1.668e-06  2.792e-08  13.06288563
+
+
+7)  90ToHoAl.44 orig_unc = 8.000e-05 opt_unc = 3.371e-04 ratio = 4.213
+
+   upper state: 0 2 0 0 4 e   MARVEL energy = 1048.74915058
+     90ToHoAl.44  8.000e-05  3.371e-04  1048.74881351  WRONG
+     84TaItTa.13  1.668e-06  1.740e-13  3.59902597
+     84TaItTa.14  1.668e-06  1.465e-07  3.96268745
+
+
+8)  90ToHoAl.46 orig_unc = 8.000e-05 opt_unc = 3.370e-04 ratio = 4.213
+
+   upper state: 0 2 0 0 6 e   MARVEL energy = 1053.08302815
+     90ToHoAl.2  8.000e-05  6.420e-05  1047.93830518
+     90ToHoAl.46  8.000e-05  3.370e-04  1053.08336518  WRONG
+     84TaItTa.15  1.668e-06  1.186e-07  7.92268854
+
+
+9)  80MaOlSa.19 orig_unc = 3.700e-03 opt_unc = 1.335e-02 ratio = 3.608
+
+   upper state: 2 0 0 0 11 e   MARVEL energy = 1714.31428482
+     80MaOlSa.19  3.700e-03  1.335e-02  1714.32763475  WRONG
+     80MaOlSa.28  3.700e-03  1.335e-02  1723.43233475  WRONG
+
+
+10)  80MaOlSa.28 orig_unc = 3.700e-03 opt_unc = 1.335e-02 ratio = 3.608
+
+   upper state: 2 0 0 0 11 e   MARVEL energy = 1714.31428482
+     80MaOlSa.19  3.700e-03  1.335e-02  1705.19623489  WRONG
+     80MaOlSa.28  3.700e-03  1.335e-02  1714.30093489  WRONG
+
+
+11)  80MaOlSa.27 orig_unc = 3.700e-03 opt_unc = 1.256e-02 ratio = 3.395
+
+   upper state: 2 0 0 0 9 e   MARVEL energy = 1706.04949635
+     80MaOlSa.20  3.700e-03  1.256e-02  1698.54515781  WRONG
+     80MaOlSa.27  3.700e-03  1.256e-02  1706.06205781  WRONG
+
+
+12)  80MaOlSa.20 orig_unc = 3.700e-03 opt_unc = 1.256e-02 ratio = 3.395
+
+   upper state: 2 0 0 0 9 e   MARVEL energy = 1706.04949635
+     80MaOlSa.20  3.700e-03  1.256e-02  1706.03693489  WRONG
+     80MaOlSa.27  3.700e-03  1.256e-02  1713.55383489  WRONG
+
+

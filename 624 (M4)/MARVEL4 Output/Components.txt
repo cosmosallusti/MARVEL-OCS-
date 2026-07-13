@@ -1,0 +1,264 @@
+1. component   nbEL= 168  nbTR= 194
+2. component   nbEL= 36  nbTR= 37
+3. component   nbEL= 6  nbTR= 5
+6. component   nbEL= 6  nbTR= 5
+11. component   nbEL= 6  nbTR= 5
+4. component   nbEL= 5  nbTR= 4
+12. component   nbEL= 5  nbTR= 4
+5. component   nbEL= 4  nbTR= 3
+7. component   nbEL= 4  nbTR= 3
+43. component   nbEL= 4  nbTR= 3
+10. component   nbEL= 4  nbTR= 3
+13. component   nbEL= 4  nbTR= 3
+14. component   nbEL= 4  nbTR= 3
+15. component   nbEL= 4  nbTR= 3
+16. component   nbEL= 4  nbTR= 3
+17. component   nbEL= 4  nbTR= 3
+18. component   nbEL= 4  nbTR= 3
+8. component   nbEL= 3  nbTR= 2
+42. component   nbEL= 3  nbTR= 2
+21. component   nbEL= 3  nbTR= 2
+20. component   nbEL= 2  nbTR= 1
+22. component   nbEL= 2  nbTR= 1
+23. component   nbEL= 2  nbTR= 1
+24. component   nbEL= 2  nbTR= 1
+25. component   nbEL= 2  nbTR= 1
+26. component   nbEL= 2  nbTR= 1
+27. component   nbEL= 2  nbTR= 1
+28. component   nbEL= 2  nbTR= 1
+29. component   nbEL= 2  nbTR= 1
+30. component   nbEL= 2  nbTR= 1
+31. component   nbEL= 2  nbTR= 1
+32. component   nbEL= 2  nbTR= 1
+33. component   nbEL= 2  nbTR= 1
+34. component   nbEL= 2  nbTR= 1
+35. component   nbEL= 2  nbTR= 1
+36. component   nbEL= 2  nbTR= 1
+37. component   nbEL= 2  nbTR= 1
+38. component   nbEL= 2  nbTR= 1
+39. component   nbEL= 2  nbTR= 1
+40. component   nbEL= 2  nbTR= 1
+41. component   nbEL= 2  nbTR= 1
+19. component   nbEL= 2  nbTR= 1
+9. component   nbEL= 2  nbTR= 1
+44. component   nbEL= 2  nbTR= 1
+45. component   nbEL= 2  nbTR= 1
+46. component   nbEL= 2  nbTR= 1
+47. component   nbEL= 2  nbTR= 1
+
+Transitions of components:
+2. component
+1032.74377 0.00008 0 2 0 0 32 e  0 0 0 0 33 e  90ToHoAl.27
+1031.33695 0.00008 0 2 0 0 36 e  0 0 0 0 37 e  90ToHoAl.30
+1030.64229 0.00008 0 2 0 0 38 e  0 0 0 0 39 e  90ToHoAl.32
+1029.95253 0.00008 0 2 0 0 40 e  0 0 0 0 41 e  90ToHoAl.34
+1029.26845 0.00008 0 2 0 0 42 e  0 0 0 0 43 e  90ToHoAl.36
+1028.59014 0.00008 0 2 0 0 44 e  0 0 0 0 45 e  90ToHoAl.37
+1027.91758 0.00008 0 2 0 0 46 e  0 0 0 0 47 e  90ToHoAl.39
+1059.33395 0.00008 0 2 0 0 34 e  0 0 0 0 33 e  90ToHoAl.64
+1060.21426 0.00008 0 2 0 0 36 e  0 0 0 0 35 e  90ToHoAl.66
+1061.09943 0.00008 0 2 0 0 38 e  0 0 0 0 37 e  90ToHoAl.68
+1061.98993 0.00008 0 2 0 0 40 e  0 0 0 0 39 e  90ToHoAl.70
+1062.88568 0.00008 0 2 0 0 42 e  0 0 0 0 41 e  90ToHoAl.72
+1063.78698 0.00008 0 2 0 0 44 e  0 0 0 0 43 e  90ToHoAl.74
+1064.69350 0.00008 0 2 0 0 46 e  0 0 0 0 45 e  90ToHoAl.76
+1065.60536 0.00008 0 2 0 0 48 e  0 0 0 0 47 e  90ToHoAl.77
+506.85706 0.001 0 1 0 1 32 e  0 0 0 0 33 e  85JoHoKaMa.25
+506.09844 0.001 0 1 0 1 34 e  0 0 0 0 35 e  85JoHoKaMa.27
+533.39530 0.001 0 1 0 1 34 e  0 0 0 0 33 e  85JoHoKaMa.47
+534.21975 0.001 0 1 0 1 36 e  0 0 0 0 35 e  85JoHoKaMa.49
+535.04635 0.001 0 1 0 1 38 e  0 0 0 0 37 e  85JoHoKaMa.51
+535.87443 0.001 0 1 0 1 40 e  0 0 0 0 39 e  85JoHoKaMa.53
+536.70437 0.001 0 1 0 1 42 e  0 0 0 0 41 e  85JoHoKaMa.55
+539.20463 0.001 0 1 0 1 48 e  0 0 0 0 47 e  85JoHoKaMa.58
+861.22443 0.00007 1 0 0 0 36 e  0 0 0 0 35 e  81WePeMa.6
+62269217.9 10.0 0 0 1 0 46 e  0 0 0 0 45 e  90WeScMa.7
+860.48689 0.00080 1 0 0 0 34 e  0 0 0 0 33 e  81WePeMa.25
+861.89550 0.00107 1 0 0 0 38 e  0 0 0 0 37 e  81WePeMa.27
+863.28259 0.00053 1 0 0 0 42 e  0 0 0 0 41 e  81WePeMa.28
+1671.5631 0.0037 2 0 0 0 38 e  0 0 0 0 39 e  80MaOlSa.1
+1672.5345 0.0037 2 0 0 0 36 e  0 0 0 0 37 e  80MaOlSa.3
+1674.4453 0.0037 2 0 0 0 32 e  0 0 0 0 33 e  80MaOlSa.5
+1701.4077 0.0037 2 0 0 0 36 e  0 0 0 0 35 e  80MaOlSa.42
+1702.0182 0.0037 2 0 0 0 38 e  0 0 0 0 37 e  80MaOlSa.44
+1702.6203 0.0037 2 0 0 0 40 e  0 0 0 0 39 e  80MaOlSa.45
+1703.2116 0.0037 2 0 0 0 42 e  0 0 0 0 41 e  80MaOlSa.47
+1704.3631 0.0037 2 0 0 0 46 e  0 0 0 0 45 e  80MaOlSa.50
+1704.9253 0.0037 2 0 0 0 48 e  0 0 0 0 47 e  80MaOlSa.51
+
+3. component
+1028.25332 0.00008 0 2 0 0 45 e  0 0 0 0 46 e  90ToHoAl.38
+1064.23921 0.00008 0 2 0 0 45 e  0 0 0 0 44 e  90ToHoAl.75
+538.78692 0.001 0 1 0 1 47 e  0 0 0 0 46 e  85JoHoKaMa.57
+864.33363 0.00010 1 0 0 0 45 e  0 0 0 0 44 e  81WePeMa.4
+1704.0792 0.0037 2 0 0 0 45 e  0 0 0 0 44 e  80MaOlSa.49
+
+6. component
+1025.93506 0.00008 0 2 0 0 52 e  0 0 0 0 53 e  90ToHoAl.42
+1068.37498 0.00008 0 2 0 0 54 e  0 0 0 0 53 e  90ToHoAl.81
+542.14167 0.001 0 1 0 1 54 e  0 0 0 0 53 e  85JoHoKaMa.60
+61074639.0 4.0 0 0 1 0 52 e  0 0 0 0 53 e  90WeScMa.1
+1706.5492 0.0037 2 0 0 0 54 e  0 0 0 0 53 e  80MaOlSa.56
+
+11. component
+47589.276 0.05 0 1 0 1 4 f  0 1 0 1 3 f  84TaItTa.2
+58461.407 0.05 0 1 0 1 5 f  0 1 0 1 4 f  84TaItTa.4
+71353.332 0.05 0 1 0 1 6 f  0 1 0 1 5 f  84TaItTa.6
+23784.740 0.04 0 1 0 1 2 f  0 1 0 1 1 f  67MoMa.5
+35676.980 0.06 0 1 0 1 3 f  0 1 0 1 2 f  67MoMa.9
+
+4. component
+1027.58369 0.00008 0 2 0 0 47 e  0 0 0 0 48 e  90ToHoAl.40
+1066.06357 0.00008 0 2 0 0 49 e  0 0 0 0 48 e  90ToHoAl.78
+539.62281 0.001 0 1 0 1 49 e  0 0 0 0 48 e  85JoHoKaMa.59
+1705.2033 0.0037 2 0 0 0 49 e  0 0 0 0 48 e  80MaOlSa.52
+
+12. component
+107027.908 0.05 0 1 0 1 9 f  0 1 0 1 8 f  84TaItTa.8
+118918.930 0.05 0 1 0 1 10 f  0 1 0 1 9 f  84TaItTa.10
+130803.671 0.05 0 1 0 1 11 f  0 1 0 1 10 f  84TaItTa.12
+25355942 0.020 1 1 0 1 12 f  0 1 0 1 11 f  83WePeMa.12
+
+5. component
+1026.26162 0.00008 0 2 0 0 51 e  0 0 0 0 52 e  90ToHoAl.41
+1067.90956 0.00008 0 2 0 0 53 e  0 0 0 0 52 e  90ToHoAl.80
+1706.2897 0.0037 2 0 0 0 53 e  0 0 0 0 52 e  80MaOlSa.55
+
+7. component
+1024.96390 0.00008 0 2 0 0 55 e  0 0 0 0 56 e  90ToHoAl.43
+1068.84085 0.00008 0 2 0 0 55 e  0 0 0 0 54 e  90ToHoAl.82
+1069.77812 0.00008 0 2 0 0 57 e  0 0 0 0 56 e  90ToHoAl.83
+
+43. component
+62396400.3 10.0 0 0 1 0 62 e  0 0 0 0 61 e  90WeScMa.8
+869.92319 0.00080 1 0 0 0 62 e  0 0 0 0 61 e  81WePeMa.33
+1708.5806 0.0037 2 0 0 0 62 e  0 0 0 0 61 e  80MaOlSa.58
+
+10. component
+1070.72100 0.00008 0 2 0 0 59 e  0 0 0 0 58 e  90ToHoAl.85
+868.95898 0.00107 1 0 0 0 59 e  0 0 0 0 58 e  81WePeMa.30
+1707.8386 0.0037 2 0 0 0 59 e  0 0 0 0 58 e  80MaOlSa.57
+
+13. component
+107156.830 0.05 0 2 0 2 9 e  0 2 0 2 8 e  84TaItTa.17
+119061.995 0.05 0 2 0 2 10 e  0 2 0 2 9 e  84TaItTa.20
+130966.805 0.05 0 2 0 2 11 e  0 2 0 2 10 e  84TaItTa.23
+
+14. component
+107157.476 0.05 0 2 0 2 9 f  0 2 0 2 8 f  84TaItTa.18
+119062.876 0.05 0 2 0 2 10 f  0 2 0 2 9 f  84TaItTa.21
+130967.973 0.05 0 2 0 2 11 f  0 2 0 2 10 f  84TaItTa.24
+
+15. component
+47629.361 0.05 0 3 0 1 4 e  0 3 0 1 3 e  84TaItTa.25
+59536.502 0.05 0 3 0 1 5 e  0 3 0 1 4 e  84TaItTa.27
+71443.477 0.05 0 3 0 1 6 e  0 3 0 1 5 e  84TaItTa.29
+
+16. component
+47724.101 0.05 0 3 0 1 4 f  0 3 0 1 3 f  84TaItTa.26
+59654.913 0.05 0 3 0 1 5 f  0 3 0 1 4 f  84TaItTa.28
+71585.613 0.05 0 3 0 1 6 f  0 3 0 1 5 f  84TaItTa.30
+
+17. component
+107163.316 0.05 0 3 0 1 9 e  0 3 0 1 8 e  84TaItTa.31
+119069.444 0.05 0 3 0 1 10 e  0 3 0 1 9 e  84TaItTa.33
+130975.283 0.05 0 3 0 1 11 e  0 3 0 1 10 e  84TaItTa.35
+
+18. component
+107376.488 0.05 0 3 0 1 9 f  0 3 0 1 8 f  84TaItTa.32
+119306.312 0.05 0 3 0 1 10 f  0 3 0 1 9 f  84TaItTa.34
+131235.816 0.05 0 3 0 1 11 f  0 3 0 1 10 f  84TaItTa.36
+
+8. component
+1066.52276 0.00008 0 2 0 0 50 e  0 0 0 0 49 e  90ToHoAl.79
+1705.4789 0.0037 2 0 0 0 50 e  0 0 0 0 49 e  80MaOlSa.53
+
+42. component
+58973.390 0.030 0 0 1 0 5 e  0 0 1 0 4 e  80BoBa.1
+70767.755 0.030 0 0 1 0 6 e  0 0 1 0 5 e  80BoBa.2
+
+21. component
+866.35439 0.00017 1 0 0 0 51 e  0 0 0 0 50 e  81WePeMa.3
+1705.7503 0.0037 2 0 0 0 51 e  0 0 0 0 50 e  80MaOlSa.54
+
+20. component
+870.58088 0.00007 1 0 0 0 64 e  0 0 0 0 63 e  81WePeMa.2
+
+22. component
+25131884 0.035 1 1 0 1 6 e  0 1 0 1 7 e  83WePeMa.5
+
+23. component
+25131809 0.035 1 1 0 1 6 f  0 1 0 1 7 f  83WePeMa.11
+
+24. component
+25367448 0.060 1 1 0 1 13 f  0 1 0 1 12 f  83WePeMa.13
+
+25. component
+25435573 0.020 1 1 0 1 19 f  0 1 0 1 18 f  83WePeMa.14
+
+26. component
+25446804 0.072 1 1 0 1 20 f  0 1 0 1 19 f  83WePeMa.15
+
+27. component
+25458010 0.030 1 1 0 1 21 f  0 1 0 1 20 f  83WePeMa.16
+
+28. component
+25480338 0.030 1 1 0 1 23 f  0 1 0 1 22 f  83WePeMa.17
+
+29. component
+25546484 0.060 1 1 0 1 29 f  0 1 0 1 28 f  83WePeMa.18
+
+30. component
+25557418 0.040 1 1 0 1 30 f  0 1 0 1 29 f  83WePeMa.19
+
+31. component
+25600738 0.030 1 1 0 1 34 f  0 1 0 1 33 f  83WePeMa.20
+
+32. component
+25809130 0.050 1 1 0 1 54 f  0 1 0 1 53 f  83WePeMa.21
+
+33. component
+791107.050 0.200 0 0 1 0 67 e  0 0 1 0 66 e  89VaJeWe.1
+
+34. component
+805302.973 0.200 0 0 0 0 68 e  0 0 0 0 67 e  89VaJeWe.2
+
+35. component
+807763.668 0.200 0 2 0 2 68 e  0 2 0 2 67 e  89VaJeWe.3
+
+36. component
+808049.576 0.200 0 2 0 2 68 f  0 2 0 2 67 f  89VaJeWe.4
+
+37. component
+808062.907 0.200 0 2 0 0 68 e  0 2 0 0 67 e  89VaJeWe.5
+
+38. component
+818081.708 0.200 0 1 0 1 69 e  0 1 0 1 68 e  89VaJeWe.6
+
+39. component
+818914.201 0.200 0 1 0 1 69 f  0 1 0 1 68 f  89VaJeWe.7
+
+40. component
+23589.520 0.08 0 0 1 0 2 e  0 0 1 0 1 e  67MoMa.2
+
+41. component
+35720.270 0.06 0 2 0 2 3 e  0 2 0 2 2 e  67MoMa.11
+
+19. component
+878.35590 0.00013 1 0 0 0 90 e  0 0 0 0 89 e  81WePeMa.1
+
+9. component
+1070.24926 0.00008 0 2 0 0 58 e  0 0 0 0 57 e  90ToHoAl.84
+
+44. component
+866.66590 0.00133 1 0 0 0 52 e  0 0 0 0 51 e  81WePeMa.29
+
+45. component
+869.28131 0.00147 1 0 0 0 60 e  0 0 0 0 59 e  81WePeMa.31
+
+46. component
+869.60280 0.00120 1 0 0 0 61 e  0 0 0 0 60 e  81WePeMa.32
+
+47. component
+30983698.0 2.0 0 3 0 1 47 f  0 1 0 1 48 f  79WePeMa.2
+
